@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+
+p {
+    margin-bottom: 30px;
+}
+
+a {
+    background-color: grey;
+    padding: 20px;
+}
+
+img {
+    width: 400px;
+}
